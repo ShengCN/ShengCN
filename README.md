@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently A Ph.D. student at Purdue University. Here is my webiste: https://shengcn.github.io/
+- 🔭 I’m currently A Ph.D. candidate at Purdue University. Here is my webiste: https://shengcn.github.io/
 - 🌱 I’m currently working on computer graphics and computer vision problems. Especially interested in relighting and computational photography problems.
