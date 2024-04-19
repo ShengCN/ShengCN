@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently A Ph.D. candidate at Purdue University. Here is my webiste: https://shengcn.github.io/
-- 🌱 I’m currently working on computer graphics and computer vision problems. Especially interested in relighting and computational photography problems.
+- 🌱 I’m currently working on computer graphics and computer vision problems. I am trying my best to make images look better by marrying computational methods and AI.
+- 🐶 I'm training my border collie Coco (https://www.instagram.com/coco_border_collie2023/). Plan to train her to attend agility competition and dance with me.
