@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a research scientist in NVIDIA research. Here is my webiste: https://shengcn.github.io/
-- 🌱 I’m currently working on computer graphics and computer vision problems. My mission is to create a photorealistic virtual world. Currently I focus on neural rendering and creating a digital twin for real world.
+- 🌱 I’m working on computer graphics and computer vision problems. My mission is to create a photorealistic virtual world. Recently I focus on neural rendering and creating a digital twin for real world.
 - 🐶 I'm training my border collie Coco (https://www.instagram.com/coco_border_collie2023/). Plan to train her to attend agility competition and dance with me.
