@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a research scientist in NVIDIA. I am working on [DLSS](https://www.nvidia.com/en-us/geforce/technologies/dlss/). Here is my [webiste](https://shengcn.github.io/).
-- 🌱 I’m working on computer graphics and computer vision problems. My mission is to create a photorealistic virtual world. Recently I focus on neural rendering and creating a digital twin for real world.
+- 🌱 I’m working on computer graphics and computer vision problems. My mission is to create a photorealistic virtual world. Recently I focus on generation models for graphics rendering and digital twin creation.
 - 🐶 I'm training my border collie [**Coco**](https://www.instagram.com/coco_border_collie2023/). Plan to train her to attend agility competition, frisbee competition and dance with me.
